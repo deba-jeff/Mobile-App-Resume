@@ -6,6 +6,10 @@ An simple mobile App developer resume
 * Navigation - For easy understanding of the App navigation
 * DataBinding - For easy build of the layout
 
+## Instructions
+* Click the About me button to see more details
+* Choose language from English, French or Spanish 
+
 ## Extra Features to Add
 * Editable Texts
 * Ability to select profile picture
