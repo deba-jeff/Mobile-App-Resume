@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resume Testing</string>
+
+    <string name="linkedIn">LinkedIn</string>
+    <string name="linkedIn_url">- https://www.linkedIn.com/in/osadebamwen-jeffery</string>
+
+    <string name="twitter">Twitter</string>
+    <string name="twitter_url">- https://twitter.com/debaukpo</string>
+
+    <string name="what_i_can_do_heading">Ce que je peux faire pour l\'entreprise</string>
+    <string name="what_i_can_do_text">Je construis des applications évolutives et maintenables. Ma capacité à prendre note des moindres détails garantit que toutes les applications que je crée sont exemptes de bogues.</string>
+
+    <string name="summary_text">Développeur Android avec une formation en génie électrique. Compétent en Kotlin et Java pour développer des applications qui suivent l\'architecture Android moderne.</string>
+
+    <string name="second_project_text_1">Asteroid Rader App</string>
+    <string name="second_project_text_2">Application d\'astéroïdes qui montre les astéroïdes détectés par la NASA qui passent près de la terre. Il utilise l\'API de la NASA pour récupérer les données. Chaque astéroïde est affiché sur une RecyclerView. En cliquant, il affiche plus de détails. Les données d\'astéroïdes sont mises en cache localement.</string>
+
+    <string name="libraries_heading">Bibliothèques/outils</string>
+    <string name="libraries">: Architecture MVVM, Kotlin, Retrofit, RecyclerView, ViewModel, DataBinding, Coil image loader, Room, LiveData, WorkManager, Composant de navigation Android, Coroutine, Moshi</string>
+
+    <string name="link_heading">Lien</string>
+    <string name="link">: https://github.com/deba-jeff/Asteroid-Rader-App</string>
+
+    <string name="android_developer">Développeur Android</string>
+    <string name="name_heading">Nom</string>
+    <string name="name_text">Osadebamwen Jeffery ukponahiunsi</string>
+    <string name="user_name_heading">Nom d\'utilisateur</string>
+    <string name="user_name_text">Jeffery</string>
+    <string name="about_me">À propos de moi</string>
+    <string name="social_links">Liens sociaux</string>
+    <string name="summary_heading">Sommaire</string>
+    <string name="projects_heading">Projets</string>
+    <string name="experience_heading">Vivre</string>
+    <string name="company">Bourse Google Africa Developers</string>
+    <string name="time_frame_and_job_role">juin 2021 - Présent (stagiaire développeur Android)</string>
+    <string name="first_experience_detail">Participant au programme de bourses organisé par Google, Andela et Pluralsight pour soutenir les développeurs de logiciels en Afrique sur le développement Android, Google Cloud et Web mobile.</string>
+    <string name="second_experience_detail">- Maîtrise des compétences Android demandées telles que les tests, les composants d\'architecture Android, Coroutine</string>
+    <string name="third_experience_detail">- Accédé aux cours Pluralsight axés sur le développement Android</string>
+
+
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Mobile App Resume</string>
+
+    <string name="linkedIn">LinkedIn</string>
+    <string name="linkedIn_url">- https://www.linkedIn.com/in/osadebamwen-jeffery</string>
+
+    <string name="twitter">Twitter</string>
+    <string name="twitter_url">- https://twitter.com/debaukpo</string>
+
+    <string name="what_i_can_do_heading">What I can do for the company</string>
+    <string name="what_i_can_do_text">I build scalable and maintainable Applications. My ability to take note of the tinest detail ensures any App I create are bug free.</string>
+
+    <string name="summary_text">Android developer with a background in Electrical Engineering. Skilled in Kotlin and Java for developing applications that follow modern Android Architecture.</string>
+
+    <string name="second_project_text_1">Asteroid Rader App</string>
+    <string name="second_project_text_2">Asteroid app that shows the asteroids detected by NASA that passes near earth. It uses the NASA API to fetch the data. Each asteroid is displayed on a RecyclerView. On clicking, it shows more details. The asteroid data are cached locally.</string>
+
+    <string name="libraries_heading">Libraries/tools</string>
+    <string name="libraries">: MVVM Architecture, Kotlin, Retrofit, RecyclerView, ViewModel, DataBinding, Coil image loader, Room, LiveData, WorkManager, Android Navigation Component, Coroutine, Moshi</string>
+
+    <string name="link_heading">Link</string>
+    <string name="link">: https://github.com/deba-jeff/Asteroid-Rader-App</string>
+
+
+    <string name="android_developer">Android Developer</string>
+    <string name="name_heading">Name</string>
+    <string name="name_text">Osadebamwen Jeffery ukponahiunsi</string>
+    <string name="user_name_heading">User Name</string>
+    <string name="user_name_text">Jeffery</string>
+    <string name="about_me">About me</string>
+    <string name="social_links">Social Links</string>
+    <string name="summary_heading">Summary</string>
+    <string name="projects_heading">Projects</string>
+    <string name="experience_heading">Experience</string>
+    <string name="company">Google Africa Developers Scholarship</string>
+    <string name="time_frame_and_job_role">June 2021 - Present (Android Developer Trainee)</string>
+    <string name="first_experience_detail">Participant of the scholarship program organized by Google, Andela and Pluralsight to support software developers in Africa on Android, Google Cloud and Mobile Web development.</string>
+    <string name="second_experience_detail">- Mastered in-demand Android skills such as testing, Android Architecture components, Coroutine</string>
+    <string name="third_experience_detail">- Accessed Pluralsight courses focused on Android development</string>
+
+
+</resources>

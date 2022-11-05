@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Resume Testing</string>
+
+    <string name="linkedIn">LinkedIn</string>
+    <string name="linkedIn_url">- https://www.linkedIn.com/in/osadebamwen-jeffery</string>
+
+    <string name="twitter">Twitter</string>
+    <string name="twitter_url">- https://twitter.com/debaukpo</string>
+
+    <string name="what_i_can_do_heading">Que puedo hacer por la empresa</string>
+    <string name="what_i_can_do_text">Construyo Aplicaciones escalables y mantenibles. Mi capacidad para tomar nota de los detalles más pequeños garantiza que cualquier aplicación que cree esté libre de errores.</string>
+
+    <string name="summary_text">Desarrollador Android con experiencia en Ingeniería Eléctrica. Experto en Kotlin y Java para desarrollar aplicaciones que siguen la arquitectura moderna de Android.</string>
+
+    <string name="second_project_text_1">Asteroid Rader App</string>
+    <string name="second_project_text_2">App de asteroides que muestra los asteroides detectados por la NASA que pasan cerca de la tierra. Utiliza la API de la NASA para obtener los datos. Cada asteroide se muestra en un RecyclerView. Al hacer clic, muestra más detalles. Los datos de asteroides se almacenan en caché localmente.</string>
+
+    <string name="libraries_heading">Bibliotecas/herramientas</string>
+    <string name="libraries">: Arquitectura MVVM, Kotlin, Retrofit, RecyclerView, ViewModel, DataBinding, Cargador de imágenes de bobina, Room, LiveData, WorkManager, Componente de navegación de Android, Coroutine, Moshi</string>
+
+    <string name="link_heading">Enlace</string>
+    <string name="link">: https://github.com/deba-jeff/Asteroid-Rader-App</string>
+
+
+    <string name="android_developer">Desarrollador de Android</string>
+    <string name="name_heading">Nombre</string>
+    <string name="name_text">Osadebamwen Jeffery ukponahiunsi</string>
+    <string name="user_name_heading">Nombre de usuario</string>
+    <string name="user_name_text">Jeffery</string>
+    <string name="about_me">Sobre mí</string>
+    <string name="social_links">vínculos sociales</string>
+    <string name="summary_heading">Resumen</string>
+    <string name="projects_heading">Proyectos</string>
+    <string name="experience_heading">Experiencia</string>
+    <string name="company">Beca para desarrolladores de Google África</string>
+    <string name="time_frame_and_job_role">junio 2021 - Presente (aprendiz de desarrollador de Android)</string>
+    <string name="first_experience_detail">Participante del programa de becas organizado por Google, Andela y Pluralsight para apoyar a los desarrolladores de software en África en el desarrollo de Android, Google Cloud y Mobile Web.</string>
+    <string name="second_experience_detail">- Dominio de habilidades de Android bajo demanda, como pruebas, componentes de arquitectura de Android, Coroutine</string>
+    <string name="third_experience_detail">- Accedió a cursos de Pluralsight enfocados en el desarrollo de Android</string>
+
+
+</resources>

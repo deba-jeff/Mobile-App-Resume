@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/light_grey">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/movie_poster"
+                    android:layout_width="165dp"
+                    android:layout_height="210dp"
+                    android:padding="8dp"
+                    android:background="@color/blue_grey"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/osadebamwen_jeffery_ukponahiunsi_photo" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="55"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:background="@color/blue_grey"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp">
+
+                    <TextView
+                        android:id="@+id/movie_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/android_developer"
+                        android:textSize="20sp"
+                        android:textColor="@color/grey"
+                        android:textStyle="bold"
+                        android:paddingBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/rating_heading"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/name_heading"
+                        android:textStyle="bold"
+                        android:textSize="18sp"
+                        android:textColor="@color/grey"
+                        android:paddingBottom="2dp" />
+
+                    <TextView
+                        android:id="@+id/rating_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/grey"
+                        android:text="@string/name_text" />
+
+                    <TextView
+                        android:id="@+id/release_date_heading"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/user_name_heading"
+                        android:textColor="@color/grey"
+                        android:textStyle="bold"
+                        android:textSize="18sp"
+                        android:paddingTop="16dp"
+                        android:paddingBottom="2dp" />
+
+                    <TextView
+                        android:id="@+id/release_date_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/grey"
+                        android:text="@string/user_name_text" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <Button
+                    android:id="@+id/about_me_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:textColor="@color/light_grey"
+                    android:background="@color/blue_grey"
+                    android:text="@string/about_me" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="16dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/social_links"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/blue_grey"
+                    android:layout_marginBottom="8dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/linkedInn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/linkedIn"
+                        android:textStyle="bold"
+                        android:textColor="@color/blue_grey"
+                        android:layout_marginBottom="8dp" />
+                    <TextView
+                        android:id="@+id/linkedIn"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/linkedIn_url"
+                        android:textColor="@color/blue_grey"
+                        android:layout_marginBottom="8dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/twitter"
+                        android:textStyle="bold"
+                        android:textColor="@color/blue_grey"
+                        android:layout_marginBottom="8dp" />
+                    <TextView
+                        android:id="@+id/twitter"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/twitter_url"
+                        android:textColor="@color/blue_grey"
+                        android:layout_marginBottom="8dp" />
+                </LinearLayout>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/what_i_can_do_heading"
+                    android:layout_marginTop="24dp"
+                    android:textSize="20sp"
+                    android:textColor="@color/blue_grey"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/blue_grey"
+                    android:text="@string/what_i_can_do_text" />
+
+
+            </LinearLayout>
+
+
+
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+</layout>
